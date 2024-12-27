@@ -1,0 +1,27 @@
+
+/* Container styling */
+.login-container {
+    max-width: 400px;
+    margin-top: 50px;
+  }
+  
+  /* Form styling */
+  .login-form {
+    border: 1px solid #ddd;
+    padding: 16px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa;
+  }
+  
+  /* Heading styling */
+  .login-title {
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  
+  /* Submit button styling */
+  .login-submit {
+    width: 100%;
+  }
+  
