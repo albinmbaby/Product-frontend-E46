@@ -1,0 +1,32 @@
+/* Custom Navbar styles */
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 15px;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: #f0f0f0;
+    background-color: #1e90ff;
+    border-radius: 5px;
+  }
+  
